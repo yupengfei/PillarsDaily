@@ -26,13 +26,29 @@ CGWorldline社区负责人：李建赢
 [变更日志](CGWorldline/changelog.html)
 
 ##Pillars Flow协作平台
-PillarsFlow负责人：王海燕、韩德晶
+PillarsFlow 前端负责人：王海燕
+
+编程语言：Qt quick
 
 [项目主页](PillarsFlow/index.html)
 [变更日志](PillarsFlow/changelog.html)
 
+PillarsFlow 服务器负责人：韩德晶
+
+编程语言：Go语言
+
+[项目主页](PillarsFlowNet/index.html)
+[部署文档](PillarsFlowNet/deploy.html)
+[变更日志](PillarsFlowNet/changelog.html)
+
 ##Pillars VFX协作平台
-Pillars VFX协作平台负责人：程学志
+Pillars VFX服务器端负责人：程学志
+
+编程语言：Go语言
+
+Pillars VFX前端负责人：李赞
+
+编程语言：Html
 
 [项目主页](PillarsVFX/index.html)
 [变更日志](PillarsVFX/changelog.html)
